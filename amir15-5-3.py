@@ -5,18 +5,13 @@ def amir_15_5_3():
         if i == 0: continue
         if i % 15 == 0:
             print(i)
-<<<<<<< HEAD
             continue
-=======
-        if i % 3 == 0 and i % 5 == 0: continue
->>>>>>> origin/master
         if i % 3 == 0:
             a.append(i)
         if i % 5 == 0:
             a.append(i)
     for x in a:
         print(x)
-
 
 
 if __name__ == '__main__':
