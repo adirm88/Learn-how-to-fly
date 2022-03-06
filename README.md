@@ -1,3 +1,3 @@
 # Learn-how-to-fly
-# Tomer and Nitzan sitting on the tree
+# Amir and Shiran are sitting on the tree
 # KISSING
